@@ -1,5 +1,11 @@
 # weather-app
 
+******************** Screnshots   ***********************
+![](./src/assets/backgroundDelhi-bg.png)
+
+
+![](./src/assets/backgroundDubai-bg.png)
+
 ## Project setup
 ```
 npm install
