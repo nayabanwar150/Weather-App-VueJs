@@ -1,6 +1,8 @@
 # weather-app
 
 ******************** Screnshots   ***********************
+
+
 ![](./src/assets/backgroundDelhi-bg.png)
 
 
